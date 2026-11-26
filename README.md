@@ -19,7 +19,6 @@ Aquí publico proyectos completos, documentados y que se pueden ejecutar. Subo u
 | Proyecto | Qué hace | Stack |
 |---|---|---|
 | [gemelo-digital-planta](https://github.com/carlosm9602/gemelo-digital-planta) | Gemelo digital de un proceso de nivel y caudal con lazo PID, servidores Modbus TCP y OPC UA, SCADA web en tiempo real y detección de anomalías con ML | Python, Jupyter, scikit-learn |
-| [portafolio](https://github.com/carlosm9602/portafolio) | Mi página de presentación con todos los proyectos | HTML, CSS |
 
 *La tabla crece cada semana.*
 
